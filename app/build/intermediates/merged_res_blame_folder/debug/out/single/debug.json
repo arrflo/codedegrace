@@ -1,34 +1,34 @@
 [
     {
-        "merged": "com.codegrace.Saklo.app-merged_res-69:/layout_activity_appointment.xml.flat",
-        "source": "com.codegrace.Saklo.app-main-71:/layout/activity_appointment.xml"
+        "merged": "C:\\Users\\Wanjin\\.gradle\\daemon\\8.0\\com.codegrace.Saklo.app-merged_res-69:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\Wanjin\\.gradle\\daemon\\8.0\\com.codegrace.Saklo.app-main-71:\\menu\\bottom_nav_menu.xml"
     },
     {
-        "merged": "com.codegrace.Saklo.app-merged_res-69:/drawable_ic_home_black_24dp.xml.flat",
-        "source": "com.codegrace.Saklo.app-main-71:/drawable/ic_home_black_24dp.xml"
+        "merged": "C:\\Users\\Wanjin\\.gradle\\daemon\\8.0\\com.codegrace.Saklo.app-merged_res-69:\\drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "C:\\Users\\Wanjin\\.gradle\\daemon\\8.0\\com.codegrace.Saklo.app-main-71:\\drawable\\ic_notifications_black_24dp.xml"
     },
     {
-        "merged": "com.codegrace.Saklo.app-merged_res-69:/drawable_ic_notifications_black_24dp.xml.flat",
-        "source": "com.codegrace.Saklo.app-main-71:/drawable/ic_notifications_black_24dp.xml"
+        "merged": "C:\\Users\\Wanjin\\.gradle\\daemon\\8.0\\com.codegrace.Saklo.app-merged_res-69:\\layout_activity_appointment.xml.flat",
+        "source": "C:\\Users\\Wanjin\\.gradle\\daemon\\8.0\\com.codegrace.Saklo.app-main-71:\\layout\\activity_appointment.xml"
     },
     {
-        "merged": "com.codegrace.Saklo.app-merged_res-69:/layout_activity_remedies.xml.flat",
-        "source": "com.codegrace.Saklo.app-main-71:/layout/activity_remedies.xml"
+        "merged": "C:\\Users\\Wanjin\\.gradle\\daemon\\8.0\\com.codegrace.Saklo.app-merged_res-69:\\layout_activity_remedies.xml.flat",
+        "source": "C:\\Users\\Wanjin\\.gradle\\daemon\\8.0\\com.codegrace.Saklo.app-main-71:\\layout\\activity_remedies.xml"
     },
     {
-        "merged": "com.codegrace.Saklo.app-merged_res-69:/navigation_mobile_navigation.xml.flat",
-        "source": "com.codegrace.Saklo.app-main-71:/navigation/mobile_navigation.xml"
+        "merged": "C:\\Users\\Wanjin\\.gradle\\daemon\\8.0\\com.codegrace.Saklo.app-merged_res-69:\\drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "C:\\Users\\Wanjin\\.gradle\\daemon\\8.0\\com.codegrace.Saklo.app-main-71:\\drawable\\ic_dashboard_black_24dp.xml"
     },
     {
-        "merged": "com.codegrace.Saklo.app-merged_res-69:/drawable_ic_dashboard_black_24dp.xml.flat",
-        "source": "com.codegrace.Saklo.app-main-71:/drawable/ic_dashboard_black_24dp.xml"
+        "merged": "C:\\Users\\Wanjin\\.gradle\\daemon\\8.0\\com.codegrace.Saklo.app-merged_res-69:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Wanjin\\.gradle\\daemon\\8.0\\com.codegrace.Saklo.app-main-71:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.codegrace.Saklo.app-merged_res-69:/layout_activity_main.xml.flat",
-        "source": "com.codegrace.Saklo.app-main-71:/layout/activity_main.xml"
+        "merged": "C:\\Users\\Wanjin\\.gradle\\daemon\\8.0\\com.codegrace.Saklo.app-merged_res-69:\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "C:\\Users\\Wanjin\\.gradle\\daemon\\8.0\\com.codegrace.Saklo.app-main-71:\\drawable\\ic_home_black_24dp.xml"
     },
     {
-        "merged": "com.codegrace.Saklo.app-merged_res-69:/menu_bottom_nav_menu.xml.flat",
-        "source": "com.codegrace.Saklo.app-main-71:/menu/bottom_nav_menu.xml"
+        "merged": "C:\\Users\\Wanjin\\.gradle\\daemon\\8.0\\com.codegrace.Saklo.app-merged_res-69:\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\Wanjin\\.gradle\\daemon\\8.0\\com.codegrace.Saklo.app-main-71:\\navigation\\mobile_navigation.xml"
     }
 ]

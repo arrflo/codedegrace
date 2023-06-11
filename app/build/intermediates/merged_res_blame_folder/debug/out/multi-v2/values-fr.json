@@ -4,23 +4,6 @@
             "outputFile": "com.codegrace.Saklo.app-mergeDebugResources-67:/values-fr/values-fr.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Wanjin\\.gradle\\caches\\transforms-3\\f37c63c7ea8c5c30a2c65131f08d4157\\transformed\\material3-1.0.0\\res\\values-fr\\values-fr.xml",
-                    "from": {
-                        "startLines": "2,3,4",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "55,130,213",
-                        "endColumns": "74,82,76",
-                        "endOffsets": "125,208,285"
-                    },
-                    "to": {
-                        "startLines": "50,53,56",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "4750,5025,5261",
-                        "endColumns": "74,82,76",
-                        "endOffsets": "4820,5103,5333"
-                    }
-                },
-                {
                     "source": "C:\\Users\\Wanjin\\.gradle\\caches\\transforms-3\\8d05a510f69a953f1fe3139178849453\\transformed\\core-1.10.1\\res\\values-fr\\values-fr.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
@@ -35,6 +18,40 @@
                         "startOffsets": "3523,3621,3723,3822,3924,4028,4132,10623",
                         "endColumns": "97,101,98,101,103,103,117,100",
                         "endOffsets": "3616,3718,3817,3919,4023,4127,4245,10719"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Wanjin\\.gradle\\caches\\transforms-3\\76a98f8b4143579b8d9c8e886f99e781\\transformed\\jetified-ui-1.3.0\\res\\values-fr\\values-fr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,204,292,392,492,579,658,750,842,929,1000,1068,1149,1234,1310,1379",
+                        "endColumns": "98,87,99,99,86,78,91,91,86,70,67,80,84,75,68,121",
+                        "endOffsets": "199,287,387,487,574,653,745,837,924,995,1063,1144,1229,1305,1374,1496"
+                    },
+                    "to": {
+                        "startLines": "48,49,51,52,54,59,60,113,114,115,116,118,119,121,123,124",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "4563,4662,4825,4925,5108,5518,5597,9887,9979,10066,10137,10294,10375,10547,10724,10793",
+                        "endColumns": "98,87,99,99,86,78,91,91,86,70,67,80,84,75,68,121",
+                        "endOffsets": "4657,4745,4920,5020,5190,5592,5684,9974,10061,10132,10200,10370,10455,10618,10788,10910"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Wanjin\\.gradle\\caches\\transforms-3\\bf0fb9116fe5d4a5a7c53e1492bc8591\\transformed\\navigation-ui-2.7.0-beta01\\res\\values-fr\\values-fr.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,158",
+                        "endColumns": "102,125",
+                        "endOffsets": "153,279"
+                    },
+                    "to": {
+                        "startLines": "111,112",
+                        "startColumns": "4,4",
+                        "startOffsets": "9658,9761",
+                        "endColumns": "102,125",
+                        "endOffsets": "9756,9882"
                     }
                 },
                 {
@@ -74,37 +91,20 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Wanjin\\.gradle\\caches\\transforms-3\\09463c156fad103058333a6ab97af1d4\\transformed\\ui-1.3.0\\res\\values-fr\\values-fr.xml",
+                    "source": "C:\\Users\\Wanjin\\.gradle\\caches\\transforms-3\\a05ba4668bbfc77c305bc10478715b27\\transformed\\jetified-material3-1.0.0\\res\\values-fr\\values-fr.xml",
                     "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,204,292,392,492,579,658,750,842,929,1000,1068,1149,1234,1310,1379",
-                        "endColumns": "98,87,99,99,86,78,91,91,86,70,67,80,84,75,68,121",
-                        "endOffsets": "199,287,387,487,574,653,745,837,924,995,1063,1144,1229,1305,1374,1496"
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,130,213",
+                        "endColumns": "74,82,76",
+                        "endOffsets": "125,208,285"
                     },
                     "to": {
-                        "startLines": "48,49,51,52,54,59,60,113,114,115,116,118,119,121,123,124",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "4563,4662,4825,4925,5108,5518,5597,9887,9979,10066,10137,10294,10375,10547,10724,10793",
-                        "endColumns": "98,87,99,99,86,78,91,91,86,70,67,80,84,75,68,121",
-                        "endOffsets": "4657,4745,4920,5020,5190,5592,5684,9974,10061,10132,10200,10370,10455,10618,10788,10910"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Wanjin\\.gradle\\caches\\transforms-3\\482fda32b57d1d57146c8a3b73344f4c\\transformed\\navigation-ui-1.0.0\\res\\values-fr\\values-fr.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,158",
-                        "endColumns": "102,125",
-                        "endOffsets": "153,279"
-                    },
-                    "to": {
-                        "startLines": "111,112",
-                        "startColumns": "4,4",
-                        "startOffsets": "9658,9761",
-                        "endColumns": "102,125",
-                        "endOffsets": "9756,9882"
+                        "startLines": "50,53,56",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "4750,5025,5261",
+                        "endColumns": "74,82,76",
+                        "endOffsets": "4820,5103,5333"
                     }
                 }
             ]

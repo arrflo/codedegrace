@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Wanjin\\.gradle\\caches\\transforms-3\\09463c156fad103058333a6ab97af1d4\\transformed\\ui-1.3.0\\res\\values-ar\\values-ar.xml",
+                    "source": "C:\\Users\\Wanjin\\.gradle\\caches\\transforms-3\\76a98f8b4143579b8d9c8e886f99e781\\transformed\\jetified-ui-1.3.0\\res\\values-ar\\values-ar.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -40,7 +40,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Wanjin\\.gradle\\caches\\transforms-3\\482fda32b57d1d57146c8a3b73344f4c\\transformed\\navigation-ui-1.0.0\\res\\values-ar\\values-ar.xml",
+                    "source": "C:\\Users\\Wanjin\\.gradle\\caches\\transforms-3\\bf0fb9116fe5d4a5a7c53e1492bc8591\\transformed\\navigation-ui-2.7.0-beta01\\res\\values-ar\\values-ar.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -54,6 +54,23 @@
                         "startOffsets": "9553,9663",
                         "endColumns": "109,110",
                         "endOffsets": "9658,9769"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Wanjin\\.gradle\\caches\\transforms-3\\a05ba4668bbfc77c305bc10478715b27\\transformed\\jetified-material3-1.0.0\\res\\values-ar\\values-ar.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,130,206",
+                        "endColumns": "74,75,73",
+                        "endOffsets": "125,201,275"
+                    },
+                    "to": {
+                        "startLines": "54,57,60",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "4763,5031,5255",
+                        "endColumns": "74,75,73",
+                        "endOffsets": "4833,5102,5324"
                     }
                 },
                 {
@@ -71,23 +88,6 @@
                         "startOffsets": "515,623,727,834,916,1017,1131,1211,1290,1381,1474,1566,1660,1760,1853,1948,2041,2132,2226,2305,2410,2508,2606,2714,2814,2917,3072,10321",
                         "endColumns": "107,103,106,81,100,113,79,78,90,92,91,93,99,92,94,92,90,93,78,104,97,97,107,99,102,154,96,81",
                         "endOffsets": "618,722,829,911,1012,1126,1206,1285,1376,1469,1561,1655,1755,1848,1943,2036,2127,2221,2300,2405,2503,2601,2709,2809,2912,3067,3164,10398"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Wanjin\\.gradle\\caches\\transforms-3\\f37c63c7ea8c5c30a2c65131f08d4157\\transformed\\material3-1.0.0\\res\\values-ar\\values-ar.xml",
-                    "from": {
-                        "startLines": "2,3,4",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "55,130,206",
-                        "endColumns": "74,75,73",
-                        "endOffsets": "125,201,275"
-                    },
-                    "to": {
-                        "startLines": "54,57,60",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "4763,5031,5255",
-                        "endColumns": "74,75,73",
-                        "endOffsets": "4833,5102,5324"
                     }
                 },
                 {

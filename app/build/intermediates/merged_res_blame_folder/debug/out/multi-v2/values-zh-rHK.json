@@ -4,23 +4,6 @@
             "outputFile": "com.codegrace.Saklo.app-mergeDebugResources-67:/values-zh-rHK/values-zh-rHK.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Wanjin\\.gradle\\caches\\transforms-3\\f37c63c7ea8c5c30a2c65131f08d4157\\transformed\\material3-1.0.0\\res\\values-zh-rHK\\values-zh-rHK.xml",
-                    "from": {
-                        "startLines": "2,3,4",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "55,127,196",
-                        "endColumns": "71,68,70",
-                        "endOffsets": "122,191,262"
-                    },
-                    "to": {
-                        "startLines": "50,53,56",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "4276,4527,4736",
-                        "endColumns": "71,68,70",
-                        "endOffsets": "4343,4591,4802"
-                    }
-                },
-                {
                     "source": "C:\\Users\\Wanjin\\.gradle\\caches\\transforms-3\\8d05a510f69a953f1fe3139178849453\\transformed\\core-1.10.1\\res\\values-zh-rHK\\values-zh-rHK.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
@@ -38,24 +21,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Wanjin\\.gradle\\caches\\transforms-3\\09463c156fad103058333a6ab97af1d4\\transformed\\ui-1.3.0\\res\\values-zh-rHK\\values-zh-rHK.xml",
+                    "source": "C:\\Users\\Wanjin\\.gradle\\caches\\transforms-3\\a05ba4668bbfc77c305bc10478715b27\\transformed\\jetified-material3-1.0.0\\res\\values-zh-rHK\\values-zh-rHK.xml",
                     "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,181,255,343,434,512,586,663,741,815,878,941,1014,1089,1156,1221",
-                        "endColumns": "75,73,87,90,77,73,76,77,73,62,62,72,74,66,64,115",
-                        "endOffsets": "176,250,338,429,507,581,658,736,810,873,936,1009,1084,1151,1216,1332"
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,127,196",
+                        "endColumns": "71,68,70",
+                        "endOffsets": "122,191,262"
                     },
                     "to": {
-                        "startLines": "48,49,51,52,54,59,60,113,114,115,116,118,119,121,123,124",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "4126,4202,4348,4436,4596,4944,5018,8693,8771,8845,8908,9040,9113,9267,9435,9500",
-                        "endColumns": "75,73,87,90,77,73,76,77,73,62,62,72,74,66,64,115",
-                        "endOffsets": "4197,4271,4431,4522,4669,5013,5090,8766,8840,8903,8966,9108,9183,9329,9495,9611"
+                        "startLines": "50,53,56",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "4276,4527,4736",
+                        "endColumns": "71,68,70",
+                        "endOffsets": "4343,4591,4802"
                     }
                 },
                 {
-                    "source": "C:\\Users\\Wanjin\\.gradle\\caches\\transforms-3\\482fda32b57d1d57146c8a3b73344f4c\\transformed\\navigation-ui-1.0.0\\res\\values-zh-rHK\\values-zh-rHK.xml",
+                    "source": "C:\\Users\\Wanjin\\.gradle\\caches\\transforms-3\\bf0fb9116fe5d4a5a7c53e1492bc8591\\transformed\\navigation-ui-2.7.0-beta01\\res\\values-zh-rHK\\values-zh-rHK.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -69,6 +52,23 @@
                         "startOffsets": "8494,8593",
                         "endColumns": "98,99",
                         "endOffsets": "8588,8688"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Wanjin\\.gradle\\caches\\transforms-3\\76a98f8b4143579b8d9c8e886f99e781\\transformed\\jetified-ui-1.3.0\\res\\values-zh-rHK\\values-zh-rHK.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,181,255,343,434,512,586,663,741,815,878,941,1014,1089,1156,1221",
+                        "endColumns": "75,73,87,90,77,73,76,77,73,62,62,72,74,66,64,115",
+                        "endOffsets": "176,250,338,429,507,581,658,736,810,873,936,1009,1084,1151,1216,1332"
+                    },
+                    "to": {
+                        "startLines": "48,49,51,52,54,59,60,113,114,115,116,118,119,121,123,124",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "4126,4202,4348,4436,4596,4944,5018,8693,8771,8845,8908,9040,9113,9267,9435,9500",
+                        "endColumns": "75,73,87,90,77,73,76,77,73,62,62,72,74,66,64,115",
+                        "endOffsets": "4197,4271,4431,4522,4669,5013,5090,8766,8840,8903,8966,9108,9183,9329,9495,9611"
                     }
                 },
                 {

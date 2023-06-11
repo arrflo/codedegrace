@@ -23,24 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Wanjin\\.gradle\\caches\\transforms-3\\09463c156fad103058333a6ab97af1d4\\transformed\\ui-1.3.0\\res\\values-sk\\values-sk.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,150,234,329,432,524,603,697,787,868,937,1006,1089,1176,1248",
-                        "endColumns": "94,83,94,102,91,78,93,89,80,68,68,82,86,71,67",
-                        "endOffsets": "145,229,324,427,519,598,692,782,863,932,1001,1084,1171,1243,1311"
-                    },
-                    "to": {
-                        "startLines": "50,51,53,54,56,61,62,115,116,117,118,120,121,123,125",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "4581,4676,4836,4931,5114,5523,5602,9780,9870,9951,10020,10168,10251,10421,10594",
-                        "endColumns": "94,83,94,102,91,78,93,89,80,68,68,82,86,71,67",
-                        "endOffsets": "4671,4755,4926,5029,5201,5597,5691,9865,9946,10015,10084,10246,10333,10488,10657"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Wanjin\\.gradle\\caches\\transforms-3\\f37c63c7ea8c5c30a2c65131f08d4157\\transformed\\material3-1.0.0\\res\\values-sk\\values-sk.xml",
+                    "source": "C:\\Users\\Wanjin\\.gradle\\caches\\transforms-3\\a05ba4668bbfc77c305bc10478715b27\\transformed\\jetified-material3-1.0.0\\res\\values-sk\\values-sk.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",
@@ -57,7 +40,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Wanjin\\.gradle\\caches\\transforms-3\\482fda32b57d1d57146c8a3b73344f4c\\transformed\\navigation-ui-1.0.0\\res\\values-sk\\values-sk.xml",
+                    "source": "C:\\Users\\Wanjin\\.gradle\\caches\\transforms-3\\76a98f8b4143579b8d9c8e886f99e781\\transformed\\jetified-ui-1.3.0\\res\\values-sk\\values-sk.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,150,234,329,432,524,603,697,787,868,937,1006,1089,1176,1248",
+                        "endColumns": "94,83,94,102,91,78,93,89,80,68,68,82,86,71,67",
+                        "endOffsets": "145,229,324,427,519,598,692,782,863,932,1001,1084,1171,1243,1311"
+                    },
+                    "to": {
+                        "startLines": "50,51,53,54,56,61,62,115,116,117,118,120,121,123,125",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "4581,4676,4836,4931,5114,5523,5602,9780,9870,9951,10020,10168,10251,10421,10594",
+                        "endColumns": "94,83,94,102,91,78,93,89,80,68,68,82,86,71,67",
+                        "endOffsets": "4671,4755,4926,5029,5201,5597,5691,9865,9946,10015,10084,10246,10333,10488,10657"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Wanjin\\.gradle\\caches\\transforms-3\\bf0fb9116fe5d4a5a7c53e1492bc8591\\transformed\\navigation-ui-2.7.0-beta01\\res\\values-sk\\values-sk.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

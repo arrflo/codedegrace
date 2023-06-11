@@ -4,24 +4,7 @@
             "outputFile": "com.codegrace.Saklo.app-mergeDebugResources-67:/values-b+sr+Latn/values-b+sr+Latn.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Wanjin\\.gradle\\caches\\transforms-3\\09463c156fad103058333a6ab97af1d4\\transformed\\ui-1.3.0\\res\\values-b+sr+Latn\\values-b+sr+Latn.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,202,289,386,487,573,650,741,833,918,990,1061,1141,1226,1299,1369",
-                        "endColumns": "96,86,96,100,85,76,90,91,84,71,70,79,84,72,69,117",
-                        "endOffsets": "197,284,381,482,568,645,736,828,913,985,1056,1136,1221,1294,1364,1482"
-                    },
-                    "to": {
-                        "startLines": "49,50,52,53,55,60,61,114,115,116,117,119,120,122,124,125",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "4574,4671,4839,4936,5110,5503,5580,9805,9897,9982,10054,10205,10285,10457,10631,10701",
-                        "endColumns": "96,86,96,100,85,76,90,91,84,71,70,79,84,72,69,117",
-                        "endOffsets": "4666,4753,4931,5032,5191,5575,5666,9892,9977,10049,10120,10280,10365,10525,10696,10814"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Wanjin\\.gradle\\caches\\transforms-3\\f37c63c7ea8c5c30a2c65131f08d4157\\transformed\\material3-1.0.0\\res\\values-b+sr+Latn\\values-b+sr+Latn.xml",
+                    "source": "C:\\Users\\Wanjin\\.gradle\\caches\\transforms-3\\a05ba4668bbfc77c305bc10478715b27\\transformed\\jetified-material3-1.0.0\\res\\values-b+sr+Latn\\values-b+sr+Latn.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",
@@ -38,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Wanjin\\.gradle\\caches\\transforms-3\\482fda32b57d1d57146c8a3b73344f4c\\transformed\\navigation-ui-1.0.0\\res\\values-b+sr+Latn\\values-b+sr+Latn.xml",
+                    "source": "C:\\Users\\Wanjin\\.gradle\\caches\\transforms-3\\bf0fb9116fe5d4a5a7c53e1492bc8591\\transformed\\navigation-ui-2.7.0-beta01\\res\\values-b+sr+Latn\\values-b+sr+Latn.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -52,6 +35,23 @@
                         "startOffsets": "9575,9682",
                         "endColumns": "106,122",
                         "endOffsets": "9677,9800"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Wanjin\\.gradle\\caches\\transforms-3\\76a98f8b4143579b8d9c8e886f99e781\\transformed\\jetified-ui-1.3.0\\res\\values-b+sr+Latn\\values-b+sr+Latn.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,202,289,386,487,573,650,741,833,918,990,1061,1141,1226,1299,1369",
+                        "endColumns": "96,86,96,100,85,76,90,91,84,71,70,79,84,72,69,117",
+                        "endOffsets": "197,284,381,482,568,645,736,828,913,985,1056,1136,1221,1294,1364,1482"
+                    },
+                    "to": {
+                        "startLines": "49,50,52,53,55,60,61,114,115,116,117,119,120,122,124,125",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "4574,4671,4839,4936,5110,5503,5580,9805,9897,9982,10054,10205,10285,10457,10631,10701",
+                        "endColumns": "96,86,96,100,85,76,90,91,84,71,70,79,84,72,69,117",
+                        "endOffsets": "4666,4753,4931,5032,5191,5575,5666,9892,9977,10049,10120,10280,10365,10525,10696,10814"
                     }
                 },
                 {

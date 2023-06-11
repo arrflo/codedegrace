@@ -4,23 +4,6 @@
             "outputFile": "com.codegrace.Saklo.app-mergeDebugResources-67:/values-az/values-az.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Wanjin\\.gradle\\caches\\transforms-3\\f37c63c7ea8c5c30a2c65131f08d4157\\transformed\\material3-1.0.0\\res\\values-az\\values-az.xml",
-                    "from": {
-                        "startLines": "2,3,4",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "55,140,212",
-                        "endColumns": "84,71,82",
-                        "endOffsets": "135,207,290"
-                    },
-                    "to": {
-                        "startLines": "50,53,56",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "4647,4930,5157",
-                        "endColumns": "84,71,82",
-                        "endOffsets": "4727,4997,5235"
-                    }
-                },
-                {
                     "source": "C:\\Users\\Wanjin\\.gradle\\caches\\transforms-3\\8d05a510f69a953f1fe3139178849453\\transformed\\core-1.10.1\\res\\values-az\\values-az.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
@@ -38,37 +21,20 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Wanjin\\.gradle\\caches\\transforms-3\\482fda32b57d1d57146c8a3b73344f4c\\transformed\\navigation-ui-1.0.0\\res\\values-az\\values-az.xml",
+                    "source": "C:\\Users\\Wanjin\\.gradle\\caches\\transforms-3\\a05ba4668bbfc77c305bc10478715b27\\transformed\\jetified-material3-1.0.0\\res\\values-az\\values-az.xml",
                     "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,162",
-                        "endColumns": "106,118",
-                        "endOffsets": "157,276"
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,140,212",
+                        "endColumns": "84,71,82",
+                        "endOffsets": "135,207,290"
                     },
                     "to": {
-                        "startLines": "111,112",
-                        "startColumns": "4,4",
-                        "startOffsets": "9409,9516",
-                        "endColumns": "106,118",
-                        "endOffsets": "9511,9630"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Wanjin\\.gradle\\caches\\transforms-3\\09463c156fad103058333a6ab97af1d4\\transformed\\ui-1.3.0\\res\\values-az\\values-az.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,205,293,390,491,582,663,751,843,925,994,1061,1142,1231,1303,1369",
-                        "endColumns": "99,87,96,100,90,80,87,91,81,68,66,80,88,71,65,116",
-                        "endOffsets": "200,288,385,486,577,658,746,838,920,989,1056,1137,1226,1298,1364,1481"
-                    },
-                    "to": {
-                        "startLines": "48,49,51,52,54,59,60,113,114,115,116,118,119,121,123,124",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "4459,4559,4732,4829,5002,5402,5483,9635,9727,9809,9878,10025,10106,10279,10452,10518",
-                        "endColumns": "99,87,96,100,90,80,87,91,81,68,66,80,88,71,65,116",
-                        "endOffsets": "4554,4642,4824,4925,5088,5478,5566,9722,9804,9873,9940,10101,10190,10346,10513,10630"
+                        "startLines": "50,53,56",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "4647,4930,5157",
+                        "endColumns": "84,71,82",
+                        "endOffsets": "4727,4997,5235"
                     }
                 },
                 {
@@ -86,6 +52,40 @@
                         "startOffsets": "315,425,526,636,724,831,945,1027,1105,1196,1289,1383,1482,1582,1675,1770,1864,1955,2047,2132,2237,2343,2443,2552,2657,2759,2917,10195",
                         "endColumns": "109,100,109,87,106,113,81,77,90,92,93,98,99,92,94,93,90,91,84,104,105,99,108,104,101,157,105,83",
                         "endOffsets": "420,521,631,719,826,940,1022,1100,1191,1284,1378,1477,1577,1670,1765,1859,1950,2042,2127,2232,2338,2438,2547,2652,2754,2912,3018,10274"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Wanjin\\.gradle\\caches\\transforms-3\\76a98f8b4143579b8d9c8e886f99e781\\transformed\\jetified-ui-1.3.0\\res\\values-az\\values-az.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,205,293,390,491,582,663,751,843,925,994,1061,1142,1231,1303,1369",
+                        "endColumns": "99,87,96,100,90,80,87,91,81,68,66,80,88,71,65,116",
+                        "endOffsets": "200,288,385,486,577,658,746,838,920,989,1056,1137,1226,1298,1364,1481"
+                    },
+                    "to": {
+                        "startLines": "48,49,51,52,54,59,60,113,114,115,116,118,119,121,123,124",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "4459,4559,4732,4829,5002,5402,5483,9635,9727,9809,9878,10025,10106,10279,10452,10518",
+                        "endColumns": "99,87,96,100,90,80,87,91,81,68,66,80,88,71,65,116",
+                        "endOffsets": "4554,4642,4824,4925,5088,5478,5566,9722,9804,9873,9940,10101,10190,10346,10513,10630"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Wanjin\\.gradle\\caches\\transforms-3\\bf0fb9116fe5d4a5a7c53e1492bc8591\\transformed\\navigation-ui-2.7.0-beta01\\res\\values-az\\values-az.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,162",
+                        "endColumns": "106,118",
+                        "endOffsets": "157,276"
+                    },
+                    "to": {
+                        "startLines": "111,112",
+                        "startColumns": "4,4",
+                        "startOffsets": "9409,9516",
+                        "endColumns": "106,118",
+                        "endOffsets": "9511,9630"
                     }
                 },
                 {
