@@ -1,0 +1,43 @@
+com.codegrace.Saklo.app-lifecycle-viewmodel-savedstate-2.5.1-0 C:\Users\Wanjin\.gradle\caches\transforms-3\01f93b243140ed015a5a106a3fbac45b\transformed\lifecycle-viewmodel-savedstate-2.5.1\res
+com.codegrace.Saklo.app-lifecycle-viewmodel-ktx-2.5.1-1 C:\Users\Wanjin\.gradle\caches\transforms-3\020f46169354524184b0267ec9f274c8\transformed\lifecycle-viewmodel-ktx-2.5.1\res
+com.codegrace.Saklo.app-ui-1.3.0-2 C:\Users\Wanjin\.gradle\caches\transforms-3\09463c156fad103058333a6ab97af1d4\transformed\ui-1.3.0\res
+com.codegrace.Saklo.app-savedstate-ktx-1.2.0-3 C:\Users\Wanjin\.gradle\caches\transforms-3\2f6297ffd896550061def290dd0d8e9b\transformed\savedstate-ktx-1.2.0\res
+com.codegrace.Saklo.app-lifecycle-runtime-2.5.1-4 C:\Users\Wanjin\.gradle\caches\transforms-3\405dc70863416620ffce52522ae2153b\transformed\lifecycle-runtime-2.5.1\res
+com.codegrace.Saklo.app-savedstate-1.2.0-5 C:\Users\Wanjin\.gradle\caches\transforms-3\43b332a4d015e232f4add97e9e412b4a\transformed\savedstate-1.2.0\res
+com.codegrace.Saklo.app-ui-text-1.3.0-6 C:\Users\Wanjin\.gradle\caches\transforms-3\45b33c2f42479ab5c6de389042b88668\transformed\ui-text-1.3.0\res
+com.codegrace.Saklo.app-foundation-1.3.0-7 C:\Users\Wanjin\.gradle\caches\transforms-3\48d325b96e2af548ba1e3f86989acfa9\transformed\foundation-1.3.0\res
+com.codegrace.Saklo.app-lifecycle-runtime-ktx-2.5.1-8 C:\Users\Wanjin\.gradle\caches\transforms-3\6f02fc611c827fd698451aace904fdb7\transformed\lifecycle-runtime-ktx-2.5.1\res
+com.codegrace.Saklo.app-foundation-layout-1.3.0-9 C:\Users\Wanjin\.gradle\caches\transforms-3\75201152cb8d37ff52150da7199cb439\transformed\foundation-layout-1.3.0\res
+com.codegrace.Saklo.app-profileinstaller-1.2.0-10 C:\Users\Wanjin\.gradle\caches\transforms-3\7572e18afb254c8ec32732935a76264c\transformed\profileinstaller-1.2.0\res
+com.codegrace.Saklo.app-ui-unit-1.3.0-11 C:\Users\Wanjin\.gradle\caches\transforms-3\76187d4852d57985e73b5459027d6d4d\transformed\ui-unit-1.3.0\res
+com.codegrace.Saklo.app-material-1.3.0-12 C:\Users\Wanjin\.gradle\caches\transforms-3\83ad3d1bde21f73e74e406e08dc3b951\transformed\material-1.3.0\res
+com.codegrace.Saklo.app-ui-tooling-1.3.0-13 C:\Users\Wanjin\.gradle\caches\transforms-3\85f5647172acdcef0931197787051993\transformed\ui-tooling-1.3.0\res
+com.codegrace.Saklo.app-runtime-1.3.0-14 C:\Users\Wanjin\.gradle\caches\transforms-3\8fbff30e361f1fb8fc28d6503c489dec\transformed\runtime-1.3.0\res
+com.codegrace.Saklo.app-ui-tooling-data-1.3.0-15 C:\Users\Wanjin\.gradle\caches\transforms-3\8fca6c106c163c8e240d762099c1c223\transformed\ui-tooling-data-1.3.0\res
+com.codegrace.Saklo.app-animation-1.3.0-16 C:\Users\Wanjin\.gradle\caches\transforms-3\96adff040c417043fec29dc1d3da26e8\transformed\animation-1.3.0\res
+com.codegrace.Saklo.app-ui-geometry-1.3.0-17 C:\Users\Wanjin\.gradle\caches\transforms-3\96c5387685b1facd933639d35a3d567a\transformed\ui-geometry-1.3.0\res
+com.codegrace.Saklo.app-core-ktx-1.8.0-18 C:\Users\Wanjin\.gradle\caches\transforms-3\9e9db362db9a604122652b7f0537009e\transformed\core-ktx-1.8.0\res
+com.codegrace.Saklo.app-material-icons-core-1.3.0-19 C:\Users\Wanjin\.gradle\caches\transforms-3\9f29c60b79a20994e7bb8c21c6b5a7eb\transformed\material-icons-core-1.3.0\res
+com.codegrace.Saklo.app-annotation-experimental-1.1.0-20 C:\Users\Wanjin\.gradle\caches\transforms-3\9f442dc767f5378ec3cf7822b1decca7\transformed\annotation-experimental-1.1.0\res
+com.codegrace.Saklo.app-runtime-saveable-1.3.0-21 C:\Users\Wanjin\.gradle\caches\transforms-3\a34cd189deca5478eaaf930022ab7a4d\transformed\runtime-saveable-1.3.0\res
+com.codegrace.Saklo.app-ui-util-1.3.0-22 C:\Users\Wanjin\.gradle\caches\transforms-3\a384ed6fe0a152595fec46e4079f44bf\transformed\ui-util-1.3.0\res
+com.codegrace.Saklo.app-animation-core-1.3.0-23 C:\Users\Wanjin\.gradle\caches\transforms-3\a4d0c889f24b8877f62d6a543df8aa51\transformed\animation-core-1.3.0\res
+com.codegrace.Saklo.app-customview-poolingcontainer-1.0.0-24 C:\Users\Wanjin\.gradle\caches\transforms-3\aa15f13f6e5029ce5c6a180b6939de82\transformed\customview-poolingcontainer-1.0.0\res
+com.codegrace.Saklo.app-lifecycle-viewmodel-2.5.1-25 C:\Users\Wanjin\.gradle\caches\transforms-3\ae2224e543f8ff46f0e14316d2487ae5\transformed\lifecycle-viewmodel-2.5.1\res
+com.codegrace.Saklo.app-core-1.8.0-26 C:\Users\Wanjin\.gradle\caches\transforms-3\af4b7c5236c9ff872e815c327d77073f\transformed\core-1.8.0\res
+com.codegrace.Saklo.app-activity-1.5.1-27 C:\Users\Wanjin\.gradle\caches\transforms-3\c3588de61ec363a30a6b61df25fc7b76\transformed\activity-1.5.1\res
+com.codegrace.Saklo.app-lifecycle-livedata-core-2.5.1-28 C:\Users\Wanjin\.gradle\caches\transforms-3\c930b9f119b11cdad313630f8101cfd1\transformed\lifecycle-livedata-core-2.5.1\res
+com.codegrace.Saklo.app-material-ripple-1.3.0-29 C:\Users\Wanjin\.gradle\caches\transforms-3\cabc6005cad336c989d9f17866264063\transformed\material-ripple-1.3.0\res
+com.codegrace.Saklo.app-startup-runtime-1.1.1-30 C:\Users\Wanjin\.gradle\caches\transforms-3\d2930f4757d0e367ddae6666c78e8982\transformed\startup-runtime-1.1.1\res
+com.codegrace.Saklo.app-ui-test-manifest-1.3.0-31 C:\Users\Wanjin\.gradle\caches\transforms-3\e880529cda3e2b7ac313a2e995c423a2\transformed\ui-test-manifest-1.3.0\res
+com.codegrace.Saklo.app-ui-graphics-1.3.0-32 C:\Users\Wanjin\.gradle\caches\transforms-3\ee1faab639d266ec7d479f1c9ff5232c\transformed\ui-graphics-1.3.0\res
+com.codegrace.Saklo.app-activity-ktx-1.5.1-33 C:\Users\Wanjin\.gradle\caches\transforms-3\f0ef56b10c296c464197a2cc8c2a34b4\transformed\activity-ktx-1.5.1\res
+com.codegrace.Saklo.app-material3-1.0.0-34 C:\Users\Wanjin\.gradle\caches\transforms-3\f37c63c7ea8c5c30a2c65131f08d4157\transformed\material3-1.0.0\res
+com.codegrace.Saklo.app-ui-tooling-preview-1.3.0-35 C:\Users\Wanjin\.gradle\caches\transforms-3\f3ff1bcf54464ae0ca39c1655d980b39\transformed\ui-tooling-preview-1.3.0\res
+com.codegrace.Saklo.app-activity-compose-1.5.1-36 C:\Users\Wanjin\.gradle\caches\transforms-3\f4f7d58977b808286e10daa82e1220a8\transformed\activity-compose-1.5.1\res
+com.codegrace.Saklo.app-resValues-37 C:\Users\Wanjin\OneDrive\Documents\Projects\Software Dev\codedegrace\app\build\generated\res\resValues\debug
+com.codegrace.Saklo.app-packageDebugResources-38 C:\Users\Wanjin\OneDrive\Documents\Projects\Software Dev\codedegrace\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.codegrace.Saklo.app-packageDebugResources-39 C:\Users\Wanjin\OneDrive\Documents\Projects\Software Dev\codedegrace\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.codegrace.Saklo.app-merged_res-40 C:\Users\Wanjin\OneDrive\Documents\Projects\Software Dev\codedegrace\app\build\intermediates\merged_res\debug
+com.codegrace.Saklo.app-debug-41 C:\Users\Wanjin\OneDrive\Documents\Projects\Software Dev\codedegrace\app\src\debug\res
+com.codegrace.Saklo.app-main-42 C:\Users\Wanjin\OneDrive\Documents\Projects\Software Dev\codedegrace\app\src\main\res
