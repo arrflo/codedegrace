@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.codegrace.Saklo.app-mergeDebugResources-68:/layout/activity_appointment.xml",
+        "source": "com.codegrace.Saklo.app-main-71:/layout/activity_appointment.xml"
+    },
+    {
+        "merged": "com.codegrace.Saklo.app-mergeDebugResources-68:/layout/activity_remedies.xml",
+        "source": "com.codegrace.Saklo.app-main-71:/layout/activity_remedies.xml"
+    },
+    {
+        "merged": "com.codegrace.Saklo.app-mergeDebugResources-68:/layout/activity_main.xml",
+        "source": "com.codegrace.Saklo.app-main-71:/layout/activity_main.xml"
+    }
+]
