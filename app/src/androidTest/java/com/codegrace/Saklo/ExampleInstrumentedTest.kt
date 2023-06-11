@@ -1,4 +1,4 @@
-package com.codedegrace.saklo
+package com.codegrace.Saklo
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.codedegrace.saklo", appContext.packageName)
+        assertEquals("com.codegrace.Saklo", appContext.packageName)
     }
 }

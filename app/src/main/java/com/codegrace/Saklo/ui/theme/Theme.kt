@@ -1,4 +1,4 @@
-package com.codedegrace.saklo.ui.theme
+package com.codegrace.Saklo.ui.theme
 
 import android.app.Activity
 import android.os.Build

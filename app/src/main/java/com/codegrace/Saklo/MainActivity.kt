@@ -1,12 +1,11 @@
-package com.example.bayanani.activities
+package com.codegrace.Saklo
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.bayanani.R
 
-class register_loginActivity : AppCompatActivity() {
+class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_register_login)
+        setContentView(R.layout.activity_main)
     }
 }

@@ -1,4 +1,4 @@
-package com.codedegrace.saklo.ui.theme
+package com.codegrace.Saklo.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
