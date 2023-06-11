@@ -21,23 +21,28 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
+        android:id="@+id/btnAppoint"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Appointment"
-        tools:layout_editor_absoluteX="144dp"
-        tools:layout_editor_absoluteY="280dp" />
+        app:layout_constraintBottom_toTopOf="@+id/textView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
     <Button
+        android:id="@+id/btnHerbal"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="256dp"
         android:text="Herbal Remedies"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent" />
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/btnDrugs"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Medication and Drugs"
