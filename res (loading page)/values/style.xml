@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:parent="http://schemas.android.com/apk/res-auto">
+    <style name="AppTheme"></style>
+</resources>
