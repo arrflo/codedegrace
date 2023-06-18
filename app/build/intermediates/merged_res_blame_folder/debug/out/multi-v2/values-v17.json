@@ -4,7 +4,7 @@
             "outputFile": "com.codegrace.Saklo.app-mergeDebugResources-67:/values-v17/values-v17.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Wanjin\\.gradle\\caches\\transforms-3\\25306d186e67bc750ad9ef26a6053a09\\transformed\\appcompat-1.6.1\\res\\values-v17\\values-v17.xml",
+                    "source": "C:\\Users\\jolyn\\.gradle\\caches\\transforms-3\\25306d186e67bc750ad9ef26a6053a09\\transformed\\appcompat-1.6.1\\res\\values-v17\\values-v17.xml",
                     "from": {
                         "startLines": "2,5,9,12,15,18,22,25,29,33,37,40,43,46,50,53,57",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
